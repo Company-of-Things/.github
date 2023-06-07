@@ -1,1 +1,1 @@
-# .github
+# Company of Things

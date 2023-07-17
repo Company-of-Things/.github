@@ -1,8 +1,6 @@
-# Contributing to REST API
+# Contribution guide
 
-## How to contribute
-
-We use [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), so all code changes happen through pull requests
+## We use [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), so all code changes happen through pull requests
 
 ### Create a new issue for the feature/fix you want to be worked on
 
